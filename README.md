@@ -1,1 +1,1 @@
-# Dave3625_Oblig2
+I chose the regression model for use case number 1 because regression is more oppropiate to handle numerical predictions. Regression models can also consider historical data and relevant features to identify a pattern. Furthermore regression model can handle both linear and non-linear patterns wich makes it flexible for the task at predicting stock market prices. Regression models are also good at handling continuous target variables as the task is sto predict a value within a range of other values.
