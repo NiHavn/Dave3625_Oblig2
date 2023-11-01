@@ -1,2 +1,0 @@
-I chose to use regression in use-case 1 about tesla stocks because the data I will be refering to is numrical.
-Regression handles numerical values very well and the results can be easly 
